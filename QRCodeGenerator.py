@@ -1,5 +1,5 @@
 import pyqrcode
-
+#By E4crypt3d
 print("Enter text to convert")
 user_text=input(": ")
 
